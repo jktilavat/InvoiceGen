@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InvoiceGen/static/css/main.de3d5776.css",
+    "main.js": "/InvoiceGen/static/js/main.7280cfd3.js",
+    "static/media/wooferPng.png": "/InvoiceGen/static/media/wooferPng.32b13610da73862e34dd.png",
+    "static/media/gPay.svg": "/InvoiceGen/static/media/gPay.ca1b70b13ab7c8172766f83cc09e217e.svg",
+    "index.html": "/InvoiceGen/index.html",
+    "main.de3d5776.css.map": "/InvoiceGen/static/css/main.de3d5776.css.map",
+    "main.7280cfd3.js.map": "/InvoiceGen/static/js/main.7280cfd3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de3d5776.css",
+    "static/js/main.7280cfd3.js"
+  ]
+}
